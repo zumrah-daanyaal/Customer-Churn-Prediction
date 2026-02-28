@@ -1,6 +1,6 @@
 # Customer Churn Prediction
+
 End-to-end machine learning project to predict telecom customer churn and extract actionable retention insights.
-Customer churn prediction using machine learning with preprocessing, model comparison, ROC-AUC analysis, feature importance, and tuning.
 
 ## Project Highlights
 - Performs data exploration and preprocessing on customer behavior/service features.
